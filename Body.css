@@ -1,0 +1,147 @@
+.div1{
+    display:flex;
+    justify-content: space-evenly;
+    border:1px solid rebeccapurple;
+    background-image:linear-gradient(to right, #009292,  #1d5871);
+    font-size: 25px;
+    color:white;
+
+}
+.div1>img{
+    padding-top: 30px;
+}
+
+.content{
+    padding-top: 30px;
+
+}
+.content>img{
+    border-radius: 50%;
+}
+.paid{
+     display:flex;
+     justify-content: space-evenly;  
+     background-color: #009292;
+     font-size: 25px;
+     
+     
+}
+ .paid{
+       border-bottom-left-radius: 25px;
+       border-bottom-right-radius: 25px;
+ }
+
+.earning{
+    box-shadow: 0px 0px 5px rgb(158, 150, 150);
+    width:400px;
+    border-radius: 25px;
+    
+
+}
+.earning>h1{
+    text-align: center;
+}
+.div3{
+    display: flex; 
+    
+    
+}
+.div4{
+    display: flex;
+    font-size: 20px;
+  
+    
+    
+}
+.whole{
+    display: flex; 
+    justify-content: space-evenly;
+     width: 400px;
+    padding-top: 20px;
+}
+.div3>button{
+    border-radius: 25px;
+    font-size: 20px;
+    background-color:#009292 ;
+}
+.div4>button{
+ 
+ border-radius: 25px ;
+  font-size: 20px; 
+  background-color: #009292;
+}
+.div2{
+    padding-left: 100px;
+    padding-top: 50px;
+     /* display: flex;   */
+}
+.container{
+    display: flex;
+      
+}
+.watch{
+    /* padding-top:20px;  */
+    /* padding-left: 500px; */
+    margin-bottom: 2rem;
+
+    
+}
+.watch>button{
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(109, 104, 104);
+    border:1px solid white;
+
+    
+    
+}
+.container4{
+    padding-top: 20px;
+    margin-left: 500px;
+    
+    
+}
+  
+.complete>button{
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(109, 104, 104);
+    border:1px solid white;
+    
+
+}
+.bank>button{
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(109, 104, 104);
+    border:1px solid white;
+     padding-top:20px; 
+
+
+}
+.join>button{
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(109, 104, 104);
+    border:1px solid white;
+     padding-top:20px; 
+}
+
+.button-width{
+    width:21rem;
+}
+.complete{
+    margin-bottom: 2rem;
+}
+.button2{
+    width:21rem;
+}
+.bank{
+    margin-bottom: 2rem;
+
+}
+.button3{
+    width:21rem;
+}
+.join{
+    margin-bottom: 21rem;
+}
+.button4{
+    width:21rem;
+}
